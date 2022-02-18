@@ -18,13 +18,24 @@ Retrieve historical data of a given ticker list for a given time period from fin
 - Python
 
 
-# English to Turkish CLI Dictionary
+## English to Turkish CLI Dictionary
 ![](./en-tr.gif)
+
+[Source code](https://github.com/damdafayton/eng-tur-dictionary)
 
 > Built With
 - Python
 
 
 ## RTF to PDF Converter
+[Source code](https://github.com/damdafayton/rtfToPdf)
+
 > Built With
 - Python
+
+
+## Various Algorithms
+[Source code](https://github.com/damdafayton/algorithms)
+
+> Built With
+- Python, JavaScript
