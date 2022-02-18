@@ -1,0 +1,30 @@
+## URL crawler
+Parse the links from given set if URLs.
+
+![](./url-crawler.gif)
+
+> Built With
+- Python
+
+
+## Financial data parser from Yahoo
+Retrieve historical data of a given ticker list for a given time period from finance.yahoo.com
+
+![](./yahoo-parser.gif)
+
+[Source code](https://github.com/damdafayton/yahoo_parser)
+
+> Built With
+- Python
+
+
+# English to Turkish CLI Dictionary
+![](./animation.gif)
+
+> Built With
+- Python
+
+
+## RTF to PDF Converter
+> Built With
+- Python
