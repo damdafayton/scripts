@@ -19,7 +19,7 @@ Retrieve historical data of a given ticker list for a given time period from fin
 
 
 # English to Turkish CLI Dictionary
-![](./animation.gif)
+![](./en-tr.gif)
 
 > Built With
 - Python
