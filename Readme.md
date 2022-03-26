@@ -6,6 +6,14 @@ Parse the links from given set if URLs.
 > Built With
 - Python
 
+## Various Algorithms
+[Source code](https://github.com/damdafayton/algorithms)
+
+> Built With
+- Python, JavaScript
+> To name few:
+- Towers Of Hanoi Solution
+- '#' Masker
 
 ## Financial data parser from Yahoo
 Retrieve historical data of a given ticker list for a given time period from finance.yahoo.com
@@ -32,10 +40,3 @@ Retrieve historical data of a given ticker list for a given time period from fin
 
 > Built With
 - Python
-
-
-## Various Algorithms
-[Source code](https://github.com/damdafayton/algorithms)
-
-> Built With
-- Python, JavaScript
