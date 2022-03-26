@@ -1,11 +1,3 @@
-## URL crawler
-Parse the links from given set if URLs.
-
-![](./url-crawler.gif)
-
-> Built With
-- Python
-
 ## Various Algorithms
 [Source code](https://github.com/damdafayton/algorithms)
 
@@ -14,6 +6,15 @@ Parse the links from given set if URLs.
 > To name few:
 - Towers Of Hanoi Solution
 - '#' Masker
+
+## URL crawler
+Parse the links from given set if URLs.
+
+![](./url-crawler.gif)
+
+> Built With
+- Python
+
 
 ## Financial data parser from Yahoo
 Retrieve historical data of a given ticker list for a given time period from finance.yahoo.com
