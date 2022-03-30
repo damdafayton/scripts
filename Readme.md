@@ -1,9 +1,9 @@
 ## Various Algorithms
 [Source code](https://github.com/damdafayton/algorithms)
 
-> Built With
+### Built With
 - Python, JavaScript
-> To name few:
+### To name few:
 - Towers Of Hanoi Solution
 - '#' Masker
 
@@ -13,7 +13,7 @@ Parse the links from given set if URLs.
 ![](./url-crawler.gif)
 [Source Code](https://github.com/damdafayton/url-crawler)
 
-> Built With
+### Built With
 - Python
 
 
@@ -24,7 +24,7 @@ Retrieve historical data of a given ticker list for a given time period from fin
 
 [Source code](https://github.com/damdafayton/yahoo_parser)
 
-> Built With
+### Built With
 - Python
 
 
@@ -33,12 +33,12 @@ Retrieve historical data of a given ticker list for a given time period from fin
 
 [Source code](https://github.com/damdafayton/eng-tur-dictionary)
 
-> Built With
+### Built With
 - Python
 
 
 ## RTF to PDF Converter
 [Source code](https://github.com/damdafayton/rtfToPdf)
 
-> Built With
+### Built With
 - Python
