@@ -8,7 +8,7 @@
 - '#' Masker
 
 ## URL crawler
-Parse the links from given set if URLs.
+Parse the links from a given list of URLs.
 
 ![](./url-crawler.gif)
 [Source Code](https://github.com/damdafayton/url-crawler)
